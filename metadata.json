@@ -1,0 +1,6 @@
+{
+  "name": "Smart Chat Messenger",
+  "description": "Native real-time Android messaging app with chats, active moments, friends, communities, and profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
